@@ -1,0 +1,4 @@
+git clone https://github.com/yamanefkar/Turk-Sploit/
+cd Turk-Sploit/
+bash requirements.sh
+bash gokhan.sh

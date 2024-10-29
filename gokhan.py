@@ -20,7 +20,7 @@ custom_banner() {
     echo " \▓▓    ▓▓\▓▓    ▓▓ ▓▓  \▓▓\ ▓▓  | ▓▓ ▓▓  | ▓▓ ▓▓  \▓▓▓        | ▓▓   | ▓▓  | ▓▓ ▓▓  \▓▓\\▓▓    ▓▓  | ▓▓   "
     echo "  \▓▓▓▓▓▓  \▓▓▓▓▓▓ \▓▓   \▓▓\▓▓   \▓▓\▓▓   \▓▓\▓▓   \▓▓         \▓▓    \▓▓   \▓▓\▓▓   \▓▓ \▓▓▓▓▓▓    \▓▓   "
     echo -e "\033[0m"
-    echo -e "\033[34;1m Siber Güvenlik & Yazılım Geliştircisi \033[0m"  # İstediğin metin buraya eklendi
+    echo -e "\033[34;1m Siber Güvenlik & Yazılım Geliştircisi \033[0m"  #
     echo -e "\n\033[33;1m Sosyal Medya Bağlantılarımız: \033[0m"
     echo -e "\033[36;1m Instagram: \033[35m https://instagram.com/Gokhan_yakut_04"
     echo -e "\033[36;1m Youtube: \033[35m https://www.youtube.com/@byGokhanYakut"

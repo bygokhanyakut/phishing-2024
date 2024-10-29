@@ -1,9 +1,9 @@
 #!/bin/bash
 #!/bin/sh
-# Code: Yaman Efkar
-# Türk Siber Timi
-# İnstagram : @turksibertimi
-# Youtube : YamanEfkar
+#Code:Gokhan Yakut
+#Siber güvenlik & Yazlım Geliştircisi
+#İnstagram : @gokhan_yakut_04
+#Youtube : bygokhanyakut
 
 clear
 
